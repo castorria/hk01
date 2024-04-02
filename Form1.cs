@@ -16,6 +16,8 @@ namespace WindowsFormsApp3
 
         static int b = 0;
 
+        int c = 0;
+
         public Form1()
         {
             InitializeComponent();
